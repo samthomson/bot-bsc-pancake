@@ -1,10 +1,12 @@
-# ts-play
+# bot bsc pancake
 
-Basic TS config(s).
+Simple bot that trades erc20s on pancake swap, on binance smart chain.
+
+Built for pancake swap, but should work the same with any uniswap fork (ie uniswap, sushiswap, quickswap).
 
 ## setup
 
-`docker-compose build`
+`docker-compose build` and `docker-compose run app yarn`
 
 ## run
 
