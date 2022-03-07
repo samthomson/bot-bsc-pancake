@@ -4,3 +4,5 @@ services:
     build: ./
     volumes:
       - ./app:/app
+    env_file:
+      - .env
