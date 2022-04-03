@@ -13,9 +13,9 @@ Based on: https://www.youtube.com/watch?v=GK7rLwOg10Q
 ## run
 
 **Either:**
-bash into the `app` container with `docker-compose run app sh` and then run `yarn run init` separately, staying in the container's scope.
+bash into the `app` container with `docker-compose run app sh` and then run `yarn run bot` separately, staying in the container's scope.
 ***or***
-run the script in the container from outwith the container (on the/your host machine), `docker-compose run app yarn run init`, then return to the host scope after.
+run the script in the container from outwith the container (on the/your host machine), `docker-compose run app yarn run bot`, then return to the host scope after.
 
 ## about
 
