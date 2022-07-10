@@ -4,7 +4,7 @@ Simple bot that trades erc20s on pancake swap, on binance smart chain.
 
 Built for pancake swap, but should work the same with any uniswap fork (ie uniswap, sushiswap, quickswap).
 
-Based on: https://www.youtube.com/watch?v=GK7rLwOg10Q
+Based on: https://www.youtube.com/watch?v=GK7rLwOg10Q which is more or less this https://github.com/BlockchainWithLeif/PancakeswapBot/blob/main/newbot.js
 
 ## setup
 
